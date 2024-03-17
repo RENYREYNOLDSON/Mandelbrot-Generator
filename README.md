@@ -1,7 +1,7 @@
 # Generating Mandelbrot Fractals
 ## Hobby project (2018)
 ~~~
-Mandelbrot Set.py -> Normal rainbow generated images
+*Mandelbrot Set.py* -> Normal rainbow generated images
 Mandelbrot Set - Zoom.py -> Control the zoom of the plot
 Mandelbrot Set - Autozoom.py -> Automatically zooms into plot
 Mandelbrot Set - Autozoom Video.py -> Saves the plots into a video
