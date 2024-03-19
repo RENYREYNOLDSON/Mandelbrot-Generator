@@ -12,6 +12,8 @@ Mandelbrot Set - Refine Black.py -> Refines the parameters in shades of white
 Mandelbrot - 3D.py -> Plots 1/4 of the set (positive x,y) in matplotlib
 ~~~
 
+## Gallery
+
 ![image info](image0.png)
 
 ![image info](image8.png)
